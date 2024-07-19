@@ -1,5 +1,3 @@
-https://github.com/Plakshya123/Connect/blob/main/screenshots/connect.png
-
 # Connect
 
 CONNECT is a chat application designed to facilitate real-time text-based communication between users.
